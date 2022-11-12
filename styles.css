@@ -1,0 +1,15 @@
+
+h1{
+    font-size: 30px;
+    color: rgb(111, 0, 121);
+}
+
+.superheroes{
+    padding: 60px;
+    color:brown;
+}
+#button{
+    padding: 5px 40px ;
+    color:blue;
+    margin: 50px;
+}
